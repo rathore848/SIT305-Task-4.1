@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Study Timer App</string>
+    <string name="textView1">You Spent 00:00 on ... last time</string>
+</resources>
